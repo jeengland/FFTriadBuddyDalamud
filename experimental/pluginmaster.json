@@ -6,14 +6,14 @@
         "DalamudApiLevel": 3, 
         "Description": "Triple triad solver, NPC matches only.\n- highlights next move during mini game\n- evaluates all deck presets before match\n- deck optimizer for NPC\n- adds more details to card collection window", 
         "DownloadCount": 0, 
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/jeengland/FFTriadBuddyDalamud/main/experimental/api3/latest.zip", 
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/jeengland/FFTriadBuddyDalamud/main/experimental/api3/latest.zip", 
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/jeengland/FFTriadBuddyDalamud/main/experimental/api3/latest.zip", 
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/jeengland/FFTriadBuddyDalamud/main/experimental/latest.zip", 
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/jeengland/FFTriadBuddyDalamud/main/experimental/latest.zip", 
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/jeengland/FFTriadBuddyDalamud/main/experimental/latest.zip", 
         "InternalName": "TriadBuddy", 
         "IsHide": false, 
         "IsTestingExclusive": false, 
         "LastUpdated": "1633139605", 
         "Name": "TriadBuddy", 
-        "RepoUrl": "https://github.com/MgAl2O4/FFTriadBuddyDalamud"
+        "RepoUrl": "https://github.com/jeengland/FFTriadBuddyDalamud"
     }
 ] 
